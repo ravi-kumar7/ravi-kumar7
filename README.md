@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **ravikuk@outlook.com**
-
 - 📄 Know about my experiences [http://alphaone.me](http://alphaone.me)
 
 <h3 align="left">Connect with me:</h3>
