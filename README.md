@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">Senior Android Developer</h3>
 
-- 🔭 I’m currently working on <img align="center" src="https://plantix-partner.com/en/assets/img/pp-logo/plantix-partner-logo-white.svg" alt="ravi-kumar-se" height="30" width="40" />[Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
+- 🔭 I’m currently working on <img align="center" src="https://plantix-partner.com/en/assets/img/pp-logo/plantix-partner-logo-white.svg" alt="ravi-kumar-se" height="40" width="40" />[Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
 
 - 👨‍💻 All of my projects are available at [http://play.google.com/store/apps/dev?id=8102795492034460213](http://play.google.com/store/apps/dev?id=8102795492034460213)
 
