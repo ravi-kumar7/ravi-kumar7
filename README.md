@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">Senior Android Developer at <img align="center" src="https://plantix-partner.com/en/assets/img/pp-logo/plantix-partner-logo-white.svg" alt="peat" height="40" width="40" />Plantix </h3>
+<h3 align="center">Senior Android Developer at <img align="center" src="https://avatars.githubusercontent.com/u/17291360?s=50&v=4" alt="peat" height="40" width="40" /> Plantix </h3>
 
 - 🔭 I’m currently working on [Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
 
