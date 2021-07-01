@@ -17,7 +17,7 @@
 
 
 
-![](https://stackoverflow.com/users/flair/6147653.png)
+<a href="https://stackoverflow.com/users/6147653/alphaone" target="blank">![](https://stackoverflow.com/users/flair/6147653.png)</a>
 
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-kumar7&show_icons=true&count-private=true&theme=dark)
 
