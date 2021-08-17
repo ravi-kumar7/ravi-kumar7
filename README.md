@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Android Development**
 
-- 📄 Read my blog here [http://alphaone.me](http://alphaone.me)
+- 📄 Read my blog here [https://blog.alphaone.me](https://blog.alphaone.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
