@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">Senior Android Developer at <img align="center" src="https://avatars.githubusercontent.com/u/17291360?s=50&v=4" alt="peat" height="40" width="40" /> Plantix </h3>
 
-- 🔭 I’m currently working on native version [Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
+- 🔭 I’m currently working on native version of [Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
 
 - 👨‍💻 All of my projects are available at [http://play.google.com/store/apps/dev?id=8102795492034460213](http://play.google.com/store/apps/dev?id=8102795492034460213)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android Development**
 
-- 📄 Know about my experiences at [http://alphaone.me](http://alphaone.me)
+- 📄 Read my blog here [http://alphaone.me](http://alphaone.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
