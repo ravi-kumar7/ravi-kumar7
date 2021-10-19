@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">Senior Android Developer at <img align="center" src="https://avatars.githubusercontent.com/u/17291360?s=50&v=4" alt="peat" height="40" width="40" /> Plantix </h3>
+<h3 align="center">Senior Android Developer at <img align="center" src="https://avatars.githubusercontent.com/u/17291360?s=50&v=4" alt="PEAT" height="40" width="40" /> Plantix </h3>
 
 - 🔭 I’m currently working on B2B E-commerce [Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
 
@@ -9,7 +9,7 @@
 
 - 📄 Read my blog here [https://blog.alphaone.me](https://blog.alphaone.me)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ravi-kumar-se" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravi-kumar-se" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6147653/alphaone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="alphaone" height="30" width="40" /></a>
