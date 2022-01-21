@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">Senior Android Developer at <img align="center" src="https://avatars.githubusercontent.com/u/17291360?s=50&v=4" alt="PEAT" height="40" width="40" /> Plantix </h3>
 
-- 🔭 I’m currently working on B2B E-commerce [Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
+- 🔭 I’m **Google Certified Associate Android Developer** and currently working on B2B E-commerce [Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
 
-- 👨‍💻 All of my projects are available at [http://play.google.com/store/apps/dev?id=8102795492034460213](http://play.google.com/store/apps/dev?id=8102795492034460213)
+- 👨‍💻 All of my Android Projects are available at [http://play.google.com/store/apps/dev?id=8102795492034460213](http://play.google.com/store/apps/dev?id=8102795492034460213)
 
 - 💬 Ask me about **Android Development**
 
