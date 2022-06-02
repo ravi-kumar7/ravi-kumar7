@@ -2,10 +2,11 @@
 <h3 align="center">Senior Android Developer at <img align="center" src="https://avatars.githubusercontent.com/u/17291360?s=50&v=4" alt="PEAT" height="40" width="40" /> Plantix </h3>
 <img align="right" src="https://github.com/ravi-kumar7/ravi-kumar7/raw/main/HuskySiberian.gif" alt="ravi-kumar-se" height="200" width="200" />
 
-- 🔭 I’m **Google Certified Associate Android Developer** 
-- Currently working on B2B E-commerce [Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
+- 🔭 I’m **Google Certified Associate Android Developer**
+ 
+- 👻 I'm Currently working on B2B E-commerce [Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
 
-- 👨‍💻 All of my Android Projects are available at [Google Play Store](http://play.google.com/store/apps/dev?id=8102795492034460213)
+- 👨‍💻 All of my Android Projects are available on [Google Play Store](http://play.google.com/store/apps/dev?id=8102795492034460213)
 
 - 💬 Ask me about **Kotlin** and **Native Android Development**
 
