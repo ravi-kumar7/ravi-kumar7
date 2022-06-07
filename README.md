@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">Senior Android Developer at <img align="center" src="https://avatars.githubusercontent.com/u/17291360?s=50&v=4" alt="PEAT" height="40" width="40" /> Plantix </h3>
-<img align="right" src="https://github.com/ravi-kumar7/ravi-kumar7/raw/main/HuskySiberian.gif" alt="ravi-kumar-se" height="200" width="200" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ravi-kumar7/ravi-kumar7/raw/main/HuskySiberian-Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ravi-kumar7/ravi-kumar7/raw/main/HuskySiberian.gif">
+  <img align="right" src="https://github.com/ravi-kumar7/ravi-kumar7/raw/main/HuskySiberian.gif" alt="ravi-kumar-se" height="200" width="200" />
+</picture>
+
 
 - 🔭 I’m **Google Certified Associate Android Developer**
  
