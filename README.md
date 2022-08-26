@@ -23,8 +23,6 @@
 <a href="https://stackoverflow.com/users/6147653/alphaone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="alphaone" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar7&" alt="ravi-kumar7" /></p>
-
 <h4 align="left">StackOverflow</h4>
 
 <a href="https://stackoverflow.com/users/6147653/alphaone" target="blank">![](https://stackoverflow.com/users/flair/6147653.png)</a>
