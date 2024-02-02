@@ -6,8 +6,6 @@
   <img align="right" src="https://github.com/ravi-kumar7/ravi-kumar7/raw/main/HuskySiberian.gif" alt="ravi-kumar-se" height="200" width="200" />
 </picture>
 
-
-- 🔭 I’m **Google Certified Associate Android Developer**
  
 - 👻 I'm Currently working on B2B E-commerce [Plantix Partner App](https://play.google.com/store/apps/details?id=com.ocd.salesbee)
 
